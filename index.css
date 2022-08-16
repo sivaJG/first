@@ -15,11 +15,11 @@
 }
 .flag{
     margin: 40px auto;
-position: relative;
-height:210px;
-width: 300px;
-animation: flag 3s infinite;
-transform-origin: 0 450px;
+    position: relative;
+    height:210px;
+    width: 300px;
+    animation: flag 3s infinite;
+    transform-origin: 0 450px;
 }
 
 @keyframes flag {
